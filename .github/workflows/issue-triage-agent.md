@@ -23,7 +23,7 @@ safe-outputs:
               mlflow, instances, inference, training-jobs, feature-store,
               latency, reliability]
 
-engine: claude
+engine: copilot
 ---
 
 # SageMaker Studio IDE Issue Triage Agent
